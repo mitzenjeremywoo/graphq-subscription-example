@@ -1,8 +1,11 @@
 
 
-Run yarn start to run the application. 
+To start the application run, 
 
-Then access it via http://localhost/graphql
+*yarn start*
+
+
+Then access it via http://localhost:4000/graphql
 
 You will need internet connection. 
 
